@@ -2,25 +2,23 @@
 
  ✨ Desenvolvedor Web
 
-- 🌱 Atualmente estudando NodeJS, React, Jest, sempre buscando melhoria contínia e boas práticas de programação.
+### 📚 Em constante evolução...
 
-<br><br>
+Recentemente, fiz uma pausa nas publicações aqui no GitHub para me dedicar aos estudos e ao aprofundamento em novas tecnologias (especialmente Cloud).
+
+Estou voltando aos poucos e animado para prática de projetos , documentar minha jornada e retomar as contribuições.
+
+<br>
 
 ## 🛠 &nbsp;Tecnologias
 
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![JEST](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
-![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 
-<br><br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -28,7 +26,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunesflavio&layout=compact&theme=vision-friendly-dark" alt="Linguagens mais usadas"/>
 </p>
 
-<br><br>
+<br>
 
 ## Contato
 
